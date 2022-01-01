@@ -1,0 +1,7 @@
+{
+  "tenants": [
+    { "id": "tramontina", "name": "Tramontina S.A" },
+    { "id": "randon", "name": "EMPRESAS RANDON" },
+    { "id": "oi", "name": "OI Comunicações" }
+  ]
+}
